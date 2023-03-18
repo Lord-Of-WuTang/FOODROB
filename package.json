@@ -1,0 +1,16 @@
+{
+  "name": "foodrob",
+  "version": "1.0.0",
+  "description": "AltSchool 3rd semester ChatBot",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aanu Gbajumo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.21",
+    "socket.io": "^4.6.1"
+  }
+}
